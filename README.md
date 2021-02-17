@@ -39,7 +39,9 @@ aws sqs create-queue --queue-name=minhaFila --profile perfilDaFila --endpoint-ur
 
 Para executar, faça uma requisição POST no endereço:
 
+```
 http://localhost:8080/jankenpon/mao1/play
+```
 
 com o payload:
 
