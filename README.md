@@ -58,6 +58,12 @@ Para os resultados:
 http://localhost:8080/jankenpon/mao2/play
 ```
 
+Uma saída:
+
+```javascript
+["Empate com Papel!","Venci jogador 2 jogando Pedra e ele Tesoura =P ","Venci jogador 2 jogando Tesoura e ele Papel =P ","Venci jogador 2 jogando Tesoura e ele Papel =P ","Perdi do jogador 2 jogando Papel e ele Tesoura =***( ","Empate com Papel!","Venci jogador 2 jogando Pedra e ele Tesoura =P ","Empate com Pedra!","Empate com Tesoura!","Perdi do jogador 2 jogando Papel e ele Tesoura =***( "]
+```
+
 Caso tenha alguma dúvida, segue a documentação do Quarkus:
 
 https://quarkus.io/guides/amazon-sqs
