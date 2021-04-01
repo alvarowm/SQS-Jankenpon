@@ -6,6 +6,8 @@ https://aws.amazon.com/pt/sqs/
 
 Desenvolvido em Java com base em Quarkus, https://quarkus.io/, a aplicação tem dois serviços, um produtor e outro consumidor que simulam um jogo de Jankenpon com entradas aleatórias de um dos lados.
 
+Para compilar:
+
 ```
 ./mvnw compile quarkus:dev
 ```
@@ -66,5 +68,5 @@ Uma saída:
 
 Caso tenha alguma dúvida, segue a documentação do Quarkus:
 
-https://quarkus.io/guides/amazon-sqs
+https://quarkus.io/support/
 
